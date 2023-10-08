@@ -1,0 +1,26 @@
+
+body{
+    background-color: aquamarine;
+}
+.parent{
+
+    background-color: yellowgreen;
+}
+.child{
+    border:  0px solid black;
+    background-color: black;
+    height: 60px;
+    width: 1200px;
+    margin: 60px;
+}
+h2{
+    color: white;
+    padding: 7px;
+}
+.childnew{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}

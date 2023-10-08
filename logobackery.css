@@ -1,0 +1,56 @@
+
+body{
+
+    background-color: rgb(107, 161, 143);
+}
+.parent{
+
+}
+
+.child{
+    
+    color: white;
+    height: 50px;
+    width: 1000px;
+    background-color: rgb(3, 3, 29);
+    display: flex;
+    margin: 20px;
+    padding: 5px 5px;
+}
+h5{
+
+    color: rgb(170, 140, 39);
+}
+a{
+    padding: 105px;
+}
+
+.child-content{
+
+    margin-left: 90px;
+
+}
+ a:link, a:visited {
+    background-color: #36d8f4;
+    color: white;
+    margin-top: 9px;
+    padding: 6px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 20px;
+
+    
+  }
+
+
+  #a1
+  {
+    margin: 12px;
+    padding: 6px;
+  }
+  #a2
+  {
+    margin-top: 8px;
+    padding: 5px 13px;
+  }

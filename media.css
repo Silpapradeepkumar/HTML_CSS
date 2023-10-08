@@ -1,0 +1,38 @@
+.parent{
+    background-color: rgb(143, 90, 194);
+    height: 500px;
+    width: 800px;
+    margin-top: 2px;
+}
+.child{
+
+    background-color: rgb(28, 28, 128);
+    height: 300px;
+    width: 300px;
+   
+    position: absolute;
+    top: 83px;
+    margin-left: 134px;
+}
+@media (min-width:700px){
+
+    .child{
+        background-color: brown;
+        transform: rotate(70deg);
+        
+    }
+
+    
+    }
+@media (max-width:1000px){
+
+    .parent{
+
+        background-color: rgb(106, 107, 58);
+}
+}
+
+.p{
+transform: rotate(90deg);
+
+}

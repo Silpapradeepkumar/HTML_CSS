@@ -1,0 +1,27 @@
+#tab{
+
+    margin: 20px;
+    border: 1px solid black;
+}
+.tr1{
+
+    background-color: rgb(185, 208, 209);
+}
+.tr2{
+    background-color: bisque;
+}
+.th1{
+
+    background-color: thistle;
+}
+#form1{
+
+    border: 1px solid black;
+    height: 300px;
+    width: 400px;
+}
+.parent{
+display: flex;
+justify-self: right ;
+
+}

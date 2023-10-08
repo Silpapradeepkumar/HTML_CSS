@@ -1,0 +1,94 @@
+
+
+    body{
+            background-color: darkolivegreen;
+            
+        }
+    #id1{
+
+        height: 50%;
+        width: 250px;
+        background-color: cornflowerblue;
+        border-radius: 10px;
+        border: 2px ridge red ;
+        text-align: center;
+        
+        margin: 50px;
+        padding: 20px;
+    
+
+    }
+
+    #id4{
+        height: 50%;
+        width: 250px;
+        background-color: cornflowerblue;
+        border-radius: 10px;
+        border: 2px ridge red ;
+        text-align: center;
+        margin-left: 30px;
+        padding: 20px;
+
+    }
+
+    #id5{
+            height: 50%;
+            width: 250px;
+            background-color: cornflowerblue;
+            border-radius: 10px;
+            border: 2px ridge red ;
+            text-align: center;
+            margin-left: 30px;
+            padding: 20px;
+            position: absolute;
+            right: 500px;
+            bottom: 220px;
+
+    }
+
+    #id6{
+        height: 50%;
+        width: 250px;
+        background-color: cornflowerblue;
+        border-radius: 10px;
+        border: 2px ridge red ;
+        text-align: center;
+        padding: 20px;
+        margin-bottom: 700px;
+        margin-right:-100px ;
+
+    }
+
+    .ex{
+    
+        background-color: darkgoldenrod;
+        border-radius: 10px;
+    }
+    .exs{
+        height: 15%;
+        width: 230px;
+    }
+    #imgid{
+        height: 80%;
+        width: 80%;
+    border-radius: 5px;
+
+    
+    }
+        
+    }
+    #id0{
+        height: 60%;
+        width: 50%;
+        position: absolute;
+        bottom: 50px;
+        left: 16px;
+        
+    }
+    img{
+    margin: 20px;
+
+    }
+
+
+}

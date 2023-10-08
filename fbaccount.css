@@ -1,0 +1,58 @@
+body{
+
+    background-color: aliceblue;
+}
+#div1{
+
+height: 100%;
+width: 100%;
+
+
+}
+#div2{
+
+    background-color:rgb(215, 221, 221);
+    height: 500px;
+    width: 200px;
+
+
+   
+}
+
+#div3{
+
+    background-color: rgb(250, 252, 249);
+    height: 500px;
+    width: 700px;
+    
+
+    
+    
+ }
+#img{
+    height: 50px;
+    width: 50px;
+    margin: 60px;
+    border-radius: 30px;
+
+}
+
+.div{
+    margin: 220px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.tab{
+    margin: 30px;
+}
+.divv{
+
+    border: solid black;
+    height: 30px;
+    width: 190px;
+    
+}
+#textarea{
+    
+}
